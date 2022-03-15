@@ -23,6 +23,7 @@ public class SpringBootJdbcApplication {
 		Employee emp = new Employee();
 		emp.setEmpId("emp1");
 		emp.setEmpName("emp1");
+		//comment added from eclipse
 
 		EmployeeHealthInsurance employeeHealthInsurance = new EmployeeHealthInsurance();
 		employeeHealthInsurance.setEmpId("emp1");
